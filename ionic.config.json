@@ -1,0 +1,8 @@
+{
+    "name": "TrustNote",
+    "app_id": "f514910b",
+    "type": "ionic-angular",
+    "integrations": {
+        "cordova": {}
+    }
+}
